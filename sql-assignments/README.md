@@ -33,7 +33,6 @@ Each section is part of the internship assignment and explains SQL concepts step
 ## Key Learning
 - Start with basics, then apply filters.  
 - Summarize data with aggregation.
-- Connect tables with joins.  
-- Apply advanced logic and transactions for real‑world scenarios. 
+  
 - Connect tables with joins.  
 - Apply advanced logic and transactions for real‑world scenarios.
