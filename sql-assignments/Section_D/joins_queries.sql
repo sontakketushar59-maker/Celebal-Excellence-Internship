@@ -14,13 +14,22 @@ FROM orders o
 JOIN order_items oi ON o.order_id = oi.order_id
 JOIN products p ON oi.product_id = p.product_id;
 
--- Q22: LEFT vs RIGHT JOIN explanation
--- LEFT JOIN → all customers, even without orders.
--- RIGHT JOIN → all orders, even if customer missing.
--- FULL OUTER JOIN → both sides, useful for mismatched data.
+-- Q22. Explain the difference between LEFT JOIN and RIGHT JOIN with an example from this schema. When would you use a FULL OUTER JOIN?
+/*LEFT JOIN: Returns all rows from the LEFT table + matching rows from the right. Non-matching right rows → NULL.
+Example: All customers, even those without orders.
 
--- Q23: Foreign Keys explanation
--- orders.customer_id → customers.customer_id
--- order_items.order_id → orders.order_id
--- order_items.product_id → products.product_id
--- Insert with customer_id=999 fails: foreign key constraint error.
+RIGHT JOIN: Returns all rows from the RIGHT table + matching rows from the left. Non-matching left rows → NULL.
+Example: All orders, even if the customer record was deleted.
+
+FULL OUTER JOIN: Returns all rows from both tables. Use when you need to see unmatched rows on both sides —
+ e.g., customers without orders AND orders without matching customers (data quality check).*/
+
+-- Q23. Identify all Foreign Key relationships in the schema. Explain what would happen if you tried to insert an order with customer_id = 999 (which doesn't exist in customers).
+/*FK relationships:
+• orders.customer_id → customers.customer_id
+• order_items.order_id → orders.order_id
+• order_items.product_id → products.product_id
+
+What happens with customer_id = 999?
+The database raises a foreign key constraint violation and rejects the INSERT. 
+No customer with ID 999 exists in the customers table, so the reference would be invalid — this protects referential integrity.*/
