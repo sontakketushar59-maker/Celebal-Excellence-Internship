@@ -44,6 +44,7 @@ Meaning: Prepare clean tables for analysis.
 ## Folder Structure
 week-3sql-assignment
 │
+
 ├── setup.sql       - Database + tables  
 ├── queries.sql     - Analysis queries  
 ├── final.sql       - Combined query + insights  
