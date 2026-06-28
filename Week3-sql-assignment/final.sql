@@ -3,7 +3,7 @@
 -- Dataset: Superstore_clean.csv
 -- ------------------------------------------------------
 
--- 1️⃣ Final Combined Query
+-- 1️ Final Combined Query
 -- Meaning: Show each customer's name, total sales, and rank
 WITH customer_sales AS (
   SELECT c.Customer_Name, SUM(o.Sales) AS total_sales
@@ -17,7 +17,7 @@ FROM customer_sales;
 
 -- ------------------------------------------------------
 
--- 2️⃣ Mini Project: Customer Sales Insights
+-- 2️ Mini Project: Customer Sales Insights
 
 -- Top 5 customers
 -- Meaning: Five highest spenders
