@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Week 6 - Advanced PySpark Assignment
 
 ## Objective
@@ -44,4 +44,3 @@ Week-6_Advanced_PySpark_Assignment/
 - Apply Spark Optimization Techniques
 =======
 # "Celebal-Excellence-Internship"
->>>>>>> b3e093d514459258314ff48445e71ebce6c16210
