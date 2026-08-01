@@ -1,0 +1,7 @@
+Azure Synapse Notes:
+
+- Created an external table in Synapse over the Parquet files stored in ADLS Gen2.
+- Used the SQL on-demand endpoint to expose the data to Power BI.
+- This solved the issue of truncated preview when connecting directly to Parquet in Power BI.
+- Synapse provided schema recognition and column mapping, ensuring clean visuals in Power BI.
+- Connection string used: synapse_sql_endpoint_connection_string
