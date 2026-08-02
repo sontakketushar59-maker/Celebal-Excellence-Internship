@@ -1,0 +1,501 @@
+product_id,product_name,category,price
+P001,Jacket,Clothing,38774.08
+P002,Jeans,Clothing,39445.14
+P003,Cupboard,Home,17520.45
+P004,Camera,Electronics,20780.75
+P005,Printer,Electronics,15197.37
+P006,AI Book,Books,46127.54
+P007,Java Book,Books,20641.36
+P008,Curtain,Home,44582.64
+P009,Jeans,Clothing,33890.43
+P010,  JAVA BOOK  ,Books,25935.6
+P011,Java Book,Books,14642.43
+P012,Camera,Electronics,21303.43
+P013,Sofa,Home,37797.89
+P014,Jeans,Clothing,29188.68
+P015,Jeans,Clothing,43223.12
+P016,Fan,Home,38658.98
+P017,Laptop,Electronics,34584.84
+P018,Chair,Home,45238.97
+P019,Bed,Home,38920.64
+P020,Shirt,Clothing,11840.39
+P021,Fan,Home,9427.89
+P022,Sofa,Home,41514.03
+P023,Bed,Home,4385.03
+P024,Curtain,Home,46842.92
+P025,Cupboard,Home,10422.29
+P026,Curtain,Home,31019.78
+P027,C Programming Book,Books,19327.47
+P028,Mouse,Electronics,22866.75
+P029,Fan,Home,3481.27
+P030,Bed,Home,37059.28
+P031,Mouse,Electronics,44433.85
+P032,Keyboard,Electronics,48351.32
+P033,  SWEATER  ,Clothing,17114.51
+P034,Curtain,Home,20864.57
+P035,Bed,Home,26916.64
+P036,Sofa,Home,45927.85
+P037,Shoes,Clothing,20292.63
+P038,Sweater,Clothing,13538.66
+P039,Java Book,Books,47394.9
+P040,Cap,Clothing,40308.26
+P041,C Programming Book,Books,24452.77
+P042,Jacket,Clothing,1384.33
+P043,Data Science Book,Books,35434.37
+P044,Sweater,Clothing,48217.52
+P045,SQL Book,Books,29079.33
+P046,Printer,Electronics,2137.17
+P047,Sofa,Home,48343.68
+P048,Curtain,Home,19736.55
+P049,Java Book,Books,43032.75
+P050,Java Book,Books,37659.06
+P051,Python Book,Books,30057.05
+P052,Cupboard,Home,47770.7
+P053,Data Science Book,Books,44120.17
+P054,AI Book,Books,48404.61
+P055,Bed,Home,27440.74
+P056,Laptop,Electronics,43870.03
+P057,Jeans,Clothing,16394.6
+P058,T-Shirt,Clothing,7203.78
+P059,Keyboard,Electronics,20147.34
+P060,Sofa,Home,23207.36
+P061,Java Book,Books,14576.91
+P062,AI Book,Books,27228.03
+P063,AI Book,Books,7860.41
+P064,Camera,Electronics,43154.49
+P065,C Programming Book,Books,43812.52
+P066,Speaker,Electronics,11020.82
+P067,  LAPTOP  ,Electronics,610.8
+P068,Cap,Clothing,30200.31
+P069,AI Book,Books,29739.69
+P070,Fan,Home,44915.33
+P071,  C PROGRAMMING BOOK  ,Books,7319.17
+P072,Laptop,Electronics,48654.3
+P073,Jacket,Clothing,34266.9
+P074,Shoes,Clothing,42410.7
+P075,Fan,Home,21275.14
+P076,Sweater,Clothing,10556.61
+P077,SQL Book,Books,37003.65
+P078,Jeans,Clothing,19443.81
+P079,Fan,Home,6242.99
+P080,  PYTHON BOOK  ,Books,31638.59
+P081,Shoes,Clothing,33700.31
+P082,Bed,Home,13049.41
+P083,Fan,Home,28372.08
+P084,Shoes,Clothing,36741.15
+P085,Camera,Electronics,28379.84
+P086,Jacket,Clothing,14678.75
+P087,Jeans,Clothing,36420.37
+P088,SQL Book,Books,41004.03
+P089,Shoes,Clothing,44522.84
+P090,Speaker,Electronics,5868.5
+P091,Shoes,Clothing,17679.65
+P092,Cap,Clothing,15385.7
+P093,AI Book,Books,13781.92
+P094,Chair,Home,46320.71
+P095,Python Book,Books,7793.27
+P096,Cupboard,Home,9055.63
+P097,Sofa,Home,43077.69
+P098,Cap,Clothing,48371.15
+P099,SQL Book,Books,23102.95
+P100,Camera,Electronics,45272.48
+P101,Printer,Electronics,49795.38
+P102,Python Book,Books,2587.69
+P103,Cupboard,Home,16381.54
+P104,Cap,Clothing,40007.94
+P105,Bed,Home,39989.44
+P106,Cupboard,Home,32608.67
+P107,SQL Book,Books,48389.16
+P108,Chair,Home,15567.54
+P109,Jacket,Clothing,41073.65
+P110,SQL Book,Books,26693.27
+P111,Python Book,Books,35844.93
+P112,Chair,Home,48703.74
+P113,Jacket,Clothing,40982.64
+P114,Table,Home,34361.96
+P115,C Programming Book,Books,22222.39
+P116,Shoes,Clothing,23646.4
+P117,Keyboard,Electronics,27761.22
+P118,Camera,Electronics,43960.46
+P119,Jeans,Clothing,45767.05
+P120,Jeans,Clothing,20310.69
+P121,Jeans,Clothing,12051.33
+P122,Monitor,Electronics,48175.78
+P123,Shirt,Clothing,16294.61
+P124,Sofa,Home,28168.9
+P125,Cupboard,Home,44799.89
+P126,Shoes,Clothing,27643.92
+P127,Shirt,Clothing,18194.02
+P128,Sofa,Home,14921.28
+P129,Sweater,Clothing,40417.24
+P130,Jacket,Clothing,43748.3
+P131,C Programming Book,Books,28747.46
+P132,Python Book,Books,33166.04
+P133,Java Book,Books,10286.97
+P134,Jeans,Clothing,38359.02
+P135,Curtain,Home,3476.37
+P136,Jeans,Clothing,13791.1
+P137,SQL Book,Books,24916.0
+P138,Table,Home,36984.93
+P139,Sofa,Home,12518.35
+P140,Chair,Home,5645.27
+P141,Python Book,Books,30132.35
+P142,SQL Book,Books,21929.39
+P143,Cap,Clothing,6457.92
+P144,Java Book,Books,24339.86
+P145,SQL Book,Books,42526.77
+P146,Table,Home,3785.76
+P147,Sofa,Home,49299.7
+P148,Monitor,Electronics,47340.77
+P149,T-Shirt,Clothing,47198.74
+P150,Data Science Book,Books,32578.47
+P151,Fan,Home,22877.17
+P152,Cupboard,Home,32386.35
+P153,Shirt,Clothing,26085.85
+P154,  SHOES  ,Clothing,7166.16
+P155,Headphone,Electronics,41222.11
+P156,Python Book,Books,49081.03
+P157,Printer,Electronics,36592.01
+P158,Keyboard,Electronics,9514.19
+P159,AI Book,Books,13508.03
+P160,Table,Home,33387.0
+P161,Monitor,Electronics,26592.01
+P162,Jacket,Clothing,22362.11
+P163,Java Book,Books,46287.41
+P164,Laptop,Electronics,49805.02
+P165,Shirt,Clothing,2762.56
+P166,Curtain,Home,22040.29
+P167,Speaker,Electronics,13737.06
+P168,SQL Book,Books,27030.98
+P169,C Programming Book,Books,12364.01
+P170,Jacket,Clothing,15251.98
+P171,  CURTAIN  ,Home,5363.92
+P172,Monitor,Electronics,2224.57
+P173,Keyboard,Electronics,46330.64
+P174,Table,Home,18591.74
+P175,Laptop,Electronics,36455.45
+P176,  AI BOOK  ,Books,27435.91
+P177,Chair,Home,4042.75
+P178,Data Science Book,Books,19378.82
+P179,Sweater,Clothing,22018.0
+P180,Curtain,Home,2847.1
+P181,Jeans,Clothing,35454.57
+P182,Shirt,Clothing,14394.16
+P183,Monitor,Electronics,41671.64
+P184,AI Book,Books,4433.53
+P185,Cap,Clothing,1343.23
+P186,Mouse,Electronics,32311.82
+P187,Headphone,Electronics,889.23
+P188,Shirt,Clothing,26867.07
+P189,Bed,Home,38795.09
+P190,  T-SHIRT  ,Clothing,46383.66
+P191,Jacket,Clothing,8743.84
+P192,  LAPTOP  ,Electronics,7932.18
+P193,AI Book,Books,3688.76
+P194,SQL Book,Books,12503.84
+P195,Shoes,Clothing,45105.11
+P196,Cupboard,Home,46068.37
+P197,Printer,Electronics,37028.41
+P198,Curtain,Home,36874.18
+P199,Printer,Electronics,45572.67
+P200,Speaker,Electronics,10164.61
+P201,Cupboard,Home,12730.02
+P202,Laptop,Electronics,1881.13
+P203,Monitor,Electronics,17102.32
+P204,Bed,Home,44033.94
+P205,Headphone,Electronics,4912.81
+P206,Cap,Clothing,13973.7
+P207,T-Shirt,Clothing,41523.26
+P208,Jacket,Clothing,32611.11
+P209,Sweater,Clothing,39525.7
+P210,Bed,Home,41971.79
+P211,Fan,Home,33543.56
+P212,AI Book,Books,36595.13
+P213,AI Book,Books,3167.31
+P214,AI Book,Books,28243.94
+P215,Table,Home,14311.08
+P216,Java Book,Books,41725.46
+P217,Curtain,Home,37323.98
+P218,Sofa,Home,34200.82
+P219,Shirt,Clothing,7052.53
+P220,Shoes,Clothing,5426.57
+P221,Java Book,Books,15406.64
+P222,AI Book,Books,43715.02
+P223,Mouse,Electronics,17868.38
+P224,Chair,Home,45381.78
+P225,Monitor,Electronics,8372.44
+P226,Bed,Home,41282.41
+P227,C Programming Book,Books,11792.87
+P228,T-Shirt,Clothing,15121.09
+P229,Jeans,Clothing,11783.87
+P230,Printer,Electronics,419.7
+P231,Shoes,Clothing,38968.26
+P232,Printer,Electronics,19969.81
+P233,Data Science Book,Books,43269.56
+P234,C Programming Book,Books,29672.18
+P235,Printer,Electronics,45818.15
+P236,Printer,Electronics,18285.54
+P237,Speaker,Electronics,10718.52
+P238,Keyboard,Electronics,43995.22
+P239,Curtain,Home,22318.32
+P240,Curtain,Home,10389.34
+P241,  CHAIR  ,Home,37647.1
+P242,Laptop,Electronics,8089.91
+P243,Fan,Home,24562.45
+P244,Cap,Clothing,38420.11
+P245,Shoes,Clothing,24224.17
+P246,T-Shirt,Clothing,11837.24
+P247,T-Shirt,Clothing,41579.5
+P248,AI Book,Books,30209.81
+P249,Table,Home,1438.82
+P250,Fan,Home,21404.05
+P251,Table,Home,42015.62
+P252,  TABLE  ,Home,19766.63
+P253,Data Science Book,Books,30415.22
+P254,Sweater,Clothing,36874.98
+P255,Jeans,Clothing,49946.54
+P256,Cap,Clothing,22847.33
+P257,Jeans,Clothing,32181.92
+P258,Camera,Electronics,39666.2
+P259,Chair,Home,8348.47
+P260,Keyboard,Electronics,37632.3
+P261,C Programming Book,Books,28994.26
+P262,Cupboard,Home,20385.25
+P263,Cupboard,Home,41821.82
+P264,Sofa,Home,47478.99
+P265,Camera,Electronics,4765.68
+P266,Curtain,Home,31898.69
+P267,Fan,Home,34942.24
+P268,Curtain,Home,32083.2
+P269,Keyboard,Electronics,30230.57
+P270,Java Book,Books,15932.81
+P271,  PRINTER  ,Electronics,24987.74
+P272,SQL Book,Books,22357.69
+P273,Mouse,Electronics,5246.7
+P274,Speaker,Electronics,42356.93
+P275,Cap,Clothing,22226.49
+P276,Printer,Electronics,43407.7
+P277,Laptop,Electronics,35792.77
+P278,Sofa,Home,21067.49
+P279,Jeans,Clothing,4215.9
+P280,SQL Book,Books,1547.93
+P281,C Programming Book,Books,43671.54
+P282,Laptop,Electronics,13285.32
+P283,Java Book,Books,8137.93
+P284,Laptop,Electronics,19639.99
+P285,Java Book,Books,5884.01
+P286,Curtain,Home,32189.95
+P287,Jacket,Clothing,47018.64
+P288,AI Book,Books,16093.82
+P289,Keyboard,Electronics,36651.08
+P290,Jeans,Clothing,27960.88
+P291,Shoes,Clothing,2702.54
+P292,Bed,Home,19347.55
+P293,Fan,Home,30254.51
+P294,Python Book,Books,45943.22
+P295,Laptop,Electronics,25297.93
+P296,Cupboard,Home,15559.96
+P297,C Programming Book,Books,42338.29
+P298,Fan,Home,44518.62
+P299,Shoes,Clothing,5932.35
+P300,Data Science Book,Books,10331.73
+P301,Python Book,Books,26480.81
+P302,Data Science Book,Books,32793.26
+P303,Curtain,Home,33025.59
+P304,C Programming Book,Books,22519.32
+P305,Monitor,Electronics,24006.0
+P306,Bed,Home,17057.89
+P307,Printer,Electronics,47854.52
+P308,Chair,Home,39521.07
+P309,Data Science Book,Books,10873.55
+P310,Data Science Book,Books,47601.23
+P311,Java Book,Books,30428.11
+P312,Speaker,Electronics,3782.85
+P313,Monitor,Electronics,23065.98
+P314,Printer,Electronics,45548.93
+P315,Data Science Book,Books,48569.15
+P316,Keyboard,Electronics,25490.42
+P317,SQL Book,Books,14617.4
+P318,Cupboard,Home,37351.17
+P319,Printer,Electronics,48977.52
+P320,Shoes,Clothing,44917.21
+P321,Sofa,Home,47554.28
+P322,Data Science Book,Books,46150.01
+P323,T-Shirt,Clothing,32677.44
+P324,Laptop,Electronics,12859.15
+P325,Cupboard,Home,44116.05
+P326,Mouse,Electronics,4167.89
+P327,Laptop,Electronics,36669.97
+P328,Jacket,Clothing,38742.16
+P329,T-Shirt,Clothing,7504.94
+P330,Cupboard,Home,38413.52
+P331,Cupboard,Home,40741.82
+P332,Headphone,Electronics,47489.49
+P333,Curtain,Home,36308.35
+P334,T-Shirt,Clothing,40576.38
+P335,Sofa,Home,40325.49
+P336,Data Science Book,Books,47102.75
+P337,Data Science Book,Books,48140.49
+P338,Monitor,Electronics,25102.46
+P339,Cupboard,Home,32376.01
+P340,Python Book,Books,23501.74
+P341,Fan,Home,26276.03
+P342,Sweater,Clothing,37813.15
+P343,Bed,Home,728.82
+P344,C Programming Book,Books,16763.63
+P345,Table,Home,38512.93
+P346,Shirt,Clothing,44826.17
+P347,AI Book,Books,48215.0
+P348,SQL Book,Books,7557.13
+P349,C Programming Book,Books,10546.65
+P350,Data Science Book,Books,38430.39
+P351,Speaker,Electronics,22031.83
+P352,C Programming Book,Books,26271.95
+P353,SQL Book,Books,29254.96
+P354,Curtain,Home,17320.19
+P355,T-Shirt,Clothing,37590.58
+P356,Keyboard,Electronics,42664.47
+P357,Camera,Electronics,23419.39
+P358,Java Book,Books,38645.8
+P359,Python Book,Books,16010.68
+P360,Headphone,Electronics,20717.7
+P361,Data Science Book,Books,27827.2
+P362,T-Shirt,Clothing,17500.55
+P363,Curtain,Home,48877.46
+P364,C Programming Book,Books,46091.13
+P365,Speaker,Electronics,21267.15
+P366,Python Book,Books,32925.93
+P367,Shoes,Clothing,40900.73
+P368,Fan,Home,49959.97
+P369,Chair,Home,48561.98
+P370,Printer,Electronics,32181.92
+P371,Table,Home,15525.36
+P372,Bed,Home,22066.18
+P373,Sofa,Home,18286.34
+P374,Table,Home,12970.78
+P375,Speaker,Electronics,27244.33
+P376,  T-SHIRT  ,Clothing,44747.08
+P377,Cap,Clothing,20558.07
+P378,Printer,Electronics,6672.17
+P379,Headphone,Electronics,15118.52
+P380,Jeans,Clothing,29813.63
+P381,Sofa,Home,29128.73
+P382,Sofa,Home,8445.68
+P383,Cupboard,Home,34076.7
+P384,Shoes,Clothing,11430.56
+P385,AI Book,Books,30296.25
+P386,Table,Home,17241.52
+P387,Monitor,Electronics,6468.15
+P388,Python Book,Books,39042.9
+P389,Camera,Electronics,33491.5
+P390,Printer,Electronics,27127.74
+P391,Headphone,Electronics,23525.27
+P392,Java Book,Books,19806.27
+P393,Speaker,Electronics,40942.96
+P394,Keyboard,Electronics,49557.46
+P395,C Programming Book,Books,44232.06
+P396,SQL Book,Books,31200.61
+P397,Data Science Book,Books,12572.68
+P398,Printer,Electronics,26623.38
+P399,Bed,Home,37496.16
+P400,AI Book,Books,4720.43
+P401,Headphone,Electronics,20679.59
+P402,AI Book,Books,9624.83
+P403,  CUPBOARD  ,Home,15388.31
+P404,Printer,Electronics,17021.08
+P405,Mouse,Electronics,27208.41
+P406,Laptop,Electronics,40632.37
+P407,Sweater,Clothing,8317.65
+P408,  SQL BOOK  ,Books,8956.01
+P409,Data Science Book,Books,2804.97
+P410,Java Book,Books,33817.46
+P411,Sofa,Home,9112.49
+P412,Sweater,Clothing,20614.63
+P413,Cap,Clothing,39688.38
+P414,AI Book,Books,32535.13
+P415,Sweater,Clothing,611.79
+P416,Mouse,Electronics,39226.73
+P417,  SHOES  ,Clothing,25018.23
+P418,Python Book,Books,4056.05
+P419,Chair,Home,43856.05
+P420,Python Book,Books,44184.44
+P421,T-Shirt,Clothing,46043.15
+P422,Java Book,Books,39196.3
+P423,Jacket,Clothing,42977.88
+P424,C Programming Book,Books,14110.71
+P425,AI Book,Books,16240.82
+P426,Cupboard,Home,24580.18
+P427,Jeans,Clothing,13048.78
+P428,Jacket,Clothing,44148.34
+P429,T-Shirt,Clothing,15280.36
+P430,Monitor,Electronics,44185.22
+P431,Monitor,Electronics,26770.18
+P432,Shirt,Clothing,20729.97
+P433,SQL Book,Books,21634.18
+P434,Cupboard,Home,35273.66
+P435,Laptop,Electronics,27374.35
+P436,Jacket,Clothing,15296.18
+P437,Shoes,Clothing,36096.54
+P438,Sweater,Clothing,11546.08
+P439,Chair,Home,6709.01
+P440,  MOUSE  ,Electronics,32370.13
+P441,Monitor,Electronics,20178.38
+P442,Table,Home,18116.76
+P443,Printer,Electronics,47670.45
+P444,T-Shirt,Clothing,10652.52
+P445,Curtain,Home,3677.32
+P446,Bed,Home,22195.43
+P447,Shirt,Clothing,46210.41
+P448,Cap,Clothing,28814.56
+P449,Cap,Clothing,13634.78
+P450,Jacket,Clothing,43111.42
+P451,  CAP  ,Clothing,22496.24
+P452,Curtain,Home,43347.64
+P453,Python Book,Books,38364.27
+P454,Fan,Home,6211.29
+P455,Keyboard,Electronics,24495.32
+P456,C Programming Book,Books,38585.14
+P457,Java Book,Books,3466.29
+P458,Shirt,Clothing,8090.18
+P459,Data Science Book,Books,836.61
+P460,Chair,Home,7902.98
+P461,Cap,Clothing,28467.02
+P462,Sweater,Clothing,39512.77
+P463,Java Book,Books,4124.75
+P464,Monitor,Electronics,30139.77
+P465,Jeans,Clothing,19671.84
+P466,Bed,Home,47800.93
+P467,Chair,Home,29781.86
+P468,Bed,Home,15738.46
+P469,Data Science Book,Books,41671.22
+P470,Keyboard,Electronics,484.03
+P471,Mouse,Electronics,40664.22
+P472,Bed,Home,7562.63
+P473,Python Book,Books,37278.53
+P474,Laptop,Electronics,42108.29
+P475,Shirt,Clothing,8994.94
+P476,Jeans,Clothing,34266.35
+P477,T-Shirt,Clothing,15895.16
+P478,Chair,Home,24075.1
+P479,Java Book,Books,12404.64
+P480,Fan,Home,42671.63
+P481,Bed,Home,34213.45
+P482,  HEADPHONE  ,Electronics,25986.74
+P483,Laptop,Electronics,9872.29
+P484,SQL Book,Books,12219.88
+P485,C Programming Book,Books,6874.51
+P486,Headphone,Electronics,34144.23
+P487,Printer,Electronics,21388.97
+P488,Jacket,Clothing,6114.3
+P489,Laptop,Electronics,31472.98
+P490,Table,Home,11837.7
+P491,Monitor,Electronics,14598.05
+P492,Java Book,Books,2553.61
+P493,Monitor,Electronics,22628.55
+P494,Keyboard,Electronics,21556.41
+P495,Cap,Clothing,3025.05
+P496,Fan,Home,13725.14
+P497,Printer,Electronics,23219.86
+P498,Printer,Electronics,4046.28
+P499,Bed,Home,10729.05
+P500,Headphone,Electronics,36580.53
